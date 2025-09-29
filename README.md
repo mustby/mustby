@@ -12,7 +12,8 @@ Welcome to my GitHub! I’m a Solidity and Web3 security enthusiast from **Minne
 
 ## 🚀 What I’m Working On
 - Currently diving deep into smart contract development through the **[Cyfrin Updraft](https://www.cyfrin.io/updraft)** curriculum  
-- Learning best practices for secure smart contract development and auditing  
+- Learning best practices for secure smart contract development and auditing
+- Actively competing in "First Flight" audit competitions on **[Cyfrin Codehawks](https://codehawks.cyfrin.io/first-flights)**
 - Exploring real-world DeFi design patterns and smart contract vulnerabilities
 
 ---
