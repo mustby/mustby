@@ -16,7 +16,11 @@ Welcome to my GitHub! I’m a Solidity and Web3 security enthusiast from **Minne
 - Exploring real-world DeFi design patterns and smart contract vulnerabilities
 - Actively competing in "First Flight" audit competitions on **[Cyfrin Codehawks](https://codehawks.cyfrin.io/first-flights)**
 
-<img width="900" height="500" alt="Matt-stats (2)" src="https://github.com/user-attachments/assets/45a32252-f896-4ea7-b18e-58f48b46d623" />
+---
+
+## ⭐ Security Review Competition Stats on Cyfrin Codehawks
+
+<img width="900" height="500" alt="Mustby_Codehawks" src="https://github.com/user-attachments/assets/1714cdbf-5ddb-4f88-a340-482009296ba1" />
 
 ---
 
