@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Mustby
 
-Welcome to my GitHub! I’m a Solidity and Web3 security enthusiast from **Minnesota, USA**, contributing to the world of smart contracts and decentralized finance. I use this space to share my projects, track my progress, and connect with like-minded builders.
+Welcome to my GitHub! I’m a Solidity and Web3 security & development enthusiast from **Minnesota, USA**, contributing to the world of smart contracts and decentralized finance. I use this space to share my projects, track my progress, and connect with like-minded builders.
 
 ---
 
@@ -30,7 +30,7 @@ Welcome to my GitHub! I’m a Solidity and Web3 security enthusiast from **Minne
 
 ## ⭐ Security Review Competition Stats on Cyfrin Codehawks
 
-<img width="900" height="500" alt="Mustby_Codehawks" src="https://github.com/user-attachments/assets/1714cdbf-5ddb-4f88-a340-482009296ba1" />
+<img width="900" height="500" alt="Mustby_Codehawks (2)" src="https://github.com/user-attachments/assets/c828daf2-e53e-466f-96d5-e712905aa8cb" />
 
 ---
 
