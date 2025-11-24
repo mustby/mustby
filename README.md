@@ -25,6 +25,7 @@ Welcome to my GitHub! I’m a Solidity and Web3 security & development enthusias
 - Uniswap V2 ✅
 - Curve Stableswap ✅
 - Smart Contract Security ✅
+- Web3 Wallet Security Basics ✅
 
 ---
 
