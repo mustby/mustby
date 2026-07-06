@@ -2,7 +2,7 @@
 
 I'm a builder. I spot a problem, figure out the solution, and ship it.
 
-From AI-powered sports tools to enterprise email automation to iOS apps, I build across the stack, across domains, and across platforms. The throughline: every project starts with a real problem I want solved.
+From AI-powered sports tools to enterprise email automation to fun personal-use tools, I build across the stack, across domains, and across platforms. The throughline: every project starts with a real problem I want solved.
 
 ---
 
